@@ -9,5 +9,4 @@ public class TsubuyakiApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(TsubuyakiApplication.class, args);
 	}
-
 }
